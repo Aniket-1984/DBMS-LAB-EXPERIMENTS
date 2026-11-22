@@ -14,6 +14,7 @@ Each experiment folder contains the complete SQL code base, output screenshots, 
 | 4 | [Joins, Subqueries & EXPLAIN](Experiment-4_Joins_Subqueries/) | `Experiment-4_Joins_Subqueries` | INNER/LEFT/self/3-way joins, correlated subquery, EXISTS, simulated INTERSECT/EXCEPT, EXPLAIN |
 | 5 | [Views & Recursive CTE](Experiment-5_Views_Recursive_CTE/) | `Experiment-5_Views_Recursive_CTE` | CREATE VIEW, updatable views, WITH RECURSIVE reporting chains (MySQL 8.0+) |
 | 6 | [Stored Procedures & Triggers](Experiment-6_Stored-Procedures_Triggers/) | `Experiment-6_Stored-Procedures_Triggers` | transfer_employee procedure, SIGNAL/handlers, transactions, salary validation & audit triggers |
+| 7 | [Normalization: UNF to 1NF, 2NF, 3NF and BCNF](Experiment-7_Normalization/) | `Experiment-7_Normalization` | Functional dependencies, normalization stages, lossless join, dependency preservation |
 
 ## Requirements
 
